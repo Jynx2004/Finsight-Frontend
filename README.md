@@ -92,34 +92,6 @@ This is the frontend application for the Financial Analytics Dashboard, built wi
    - Select desired columns (e.g., id, date, amount) via checkboxes.
    - Click "Export" to download a CSV file with the selected columns.
 
-## Project Structure
-
-```
-financial-analytics-frontend/
-├── src/
-│   ├── components/
-│   │   ├── Login.tsx
-│   │   ├── Dashboard.tsx
-│   │   ├── TransactionTable.tsx
-│   │   ├── ExportModal.tsx
-│   │   └── AlertChip.tsx
-│   ├── context/
-│   │   └── AuthContext.tsx
-│   ├── pages/
-│   │   ├── LoginPage.tsx
-│   │   └── DashboardPage.tsx
-│   ├── api/
-│   │   └── api.ts
-│   ├── types/
-│   │   └── index.ts
-│   ├── assets/
-│   └── App.tsx
-├── .env
-├── vite.config.ts
-├── package.json
-└── README.md
-```
-
 ## Available Scripts
 
 - `npm run dev`: Starts the development server.
