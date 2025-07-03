@@ -1,4 +1,4 @@
-# Financial Analytics Dashboard - Frontend
+# Finsight
 
 ## Overview
 
